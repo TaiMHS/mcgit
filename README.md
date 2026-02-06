@@ -37,7 +37,6 @@ get it because (mc)queen = (mc)git
 - dogs or cats: both
 - what do you want to learn from mcqueen: hopefully aws
 
-
 # Tommy Guo
 
 ## Major
@@ -59,4 +58,28 @@ get it because (mc)queen = (mc)git
 - fact about yourself (fun or otherwise): competitive at pips
 - favorite color: blue
 - dogs or cats: both
+- what do you want to learn from mcqueen: aws
+
+# Jobin Shibu
+
+## Major
+<!-- put an X in the brackets to fill in the checkbox -->
+- [x] CS
+- [ ] ME
+- [ ] ECE
+- [ ] Other: ____
+
+## Year
+- [X] freshman
+- [ ] sophomore
+- [ ] junior
+- [ ] senior
+- [ ] other
+
+
+## Other related queries
+
+- fact about yourself (fun or otherwise): I play basketball
+- favorite color: Blue
+- dogs or cats: dogs
 - what do you want to learn from mcqueen: aws
